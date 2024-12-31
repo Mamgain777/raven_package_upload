@@ -1,6 +1,6 @@
 name: raven_package_upload
 description: "flutter library creation example"
-version: 0.0.1+1
+version: 0.0.1
 homepage: https://github.com/Mamgain777/raven_package_upload.git
 
 environment:
